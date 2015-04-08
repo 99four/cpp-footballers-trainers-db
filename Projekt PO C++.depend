@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1416739355 source:c:\users\damian\desktop\projekt po c++\header.cpp
+	<iostream>
+	"Header.h"
+
+1415984612 
+
+1416742543 c:\users\damian\desktop\projekt po c++\header.h
+	<iostream>
+
+1416742743 source:c:\users\damian\desktop\projekt po c++\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<conio.h>
+	<fstream>
+	<windows.h>
+	"Header.h"
+
+1415915844 source:c:\users\damian\desktop\projekcik\header.cpp
+	<iostream>
+	"Header.h"
+
+1415984612 c:\users\damian\desktop\projekcik\header.h
+	<iostream>
+
+1416739355 source:/media/dimi/CEB05789B05776C5/Users/Damian/Desktop/projekt PO C++/Header.cpp
+	<iostream>
+	"Header.h"
+
+1416742543 /media/dimi/CEB05789B05776C5/Users/Damian/Desktop/projekt PO C++/Header.h
+	<iostream>
+
+1416742743 source:/media/dimi/CEB05789B05776C5/Users/Damian/Desktop/projekt PO C++/main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<conio.h>
+	<fstream>
+	<windows.h>
+	"Header.h"
+
